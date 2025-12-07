@@ -1,0 +1,9 @@
+## Medical Scribe Application - Experimentation
+
+### Request
+
+You are a data scientist working for a medical innovation company that specializes in providing support to hospitals and private care practices. To solve an issue with regard to administrative burden, you are tasked with designing a medical scribe application that can listen to a conversation between a patient and a doctor whenever the patient comes in for a visit. As part of the design process, you want to understand how to build trust from the patient viewpoint by experimenting with a bipartisan application design where both the patient and the doctor have to provide consent by indicating so within the mobile application interface before the edge device within the room starts to record the conversation. This agreement mechanism is a new feature in contrast to the existing application which solely exists on the doctor's mobile device. You have been given a survey, ["New_Feature_Feedback.xlsx"](./New_Feature_Feedback.xlsx), that contains feedback from patients about this new feature as well as a prior survey, ["Recording_App_Feedback.xlsx"](./Recording_App_Feedback.xlsx) administered for patients going through conversations with the prior design.
+
+### Deliverable
+
+Create a PDF report, [Scribe_App_Feature_Recommendation.pdf](./Scribe_App_Feature_Recommendation.pdf), containing the sections: "Statistical Design", which will detail the inferential method used to make a decision between the two app designs, "Recommendation", which will use the insights from the inferential test to decide whether or not the bipartisan agreement feature will be used as an intervention for future patient visits. 
