@@ -94,7 +94,7 @@
 
 **Patient:** What do you think it could be?
 
-**Physician:** There are several possibilities we need to explore. The combination of anterograde amnesia—that's the difficulty forming new memories you've been experiencing—along with the headaches, neck pain, and neurological symptoms could indicate a few different conditions. It could be related to increased intracranial pressure, possibly a cerebrospinal fluid issue, or even something affecting the cervical spine that's impacting blood flow. There's also a possibility of a Chiari malformation, where brain tissue extends into the spinal canal.
+**Physician:** There are several possibilities we need to explore. The combination of anterograde amnesia — that's the difficulty forming new memories you've been experiencing—along with the headaches, neck pain, and neurological symptoms could indicate a few different conditions. It could be related to increased intracranial pressure, possibly a cerebrospinal fluid issue, or even something affecting the cervical spine that's impacting blood flow. There's also a possibility of a Chiari malformation, where brain tissue extends into the spinal canal.
 
 **Patient:** That sounds serious.
 

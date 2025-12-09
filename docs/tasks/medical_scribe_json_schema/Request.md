@@ -6,4 +6,4 @@ You are a machine learning engineer (MLE) working on a medical scribe app that w
 
 ### Deliverable
 
-Using the audio file, `patient_visit_conversation.mp3`, generate an appropriate JSON schema, `conversation_schema.json`, that can capture important metadata about the conversation in a speaker-diarized fashion.
+Using the audio file, [`patient_visit_conversation.mp3`](https://rishov-consulting.s3.us-east-1.amazonaws.com/sepal_ai/ds-tasks/medical_scribe_application/patient_visit_conversation.mp3), generate an appropriate JSON schema, [`conversation_schema.json`](conversation_schema.json), that can capture important metadata about the conversation in a speaker-diarized fashion.
