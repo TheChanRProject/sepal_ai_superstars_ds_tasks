@@ -1,0 +1,12 @@
+{
+    "total_duration": "6:44",
+    "file_name": "conversation_schema.json",
+    "mime_type": "application/json",
+    "number_of_speakers": 2,
+    "timestamps" : {
+        "physician" : ["0:00", "..."],
+        "patient" : ["0:10", "..."]
+    },
+    "visit_type" : "first_visit",
+    "visit_timestamp" : "2025-12-09 11:52:33"
+}
